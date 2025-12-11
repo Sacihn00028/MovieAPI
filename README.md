@@ -15,8 +15,7 @@ A full-stack web application for browsing movies, reading and writing reviews, a
 - [Environment Variables](#environment-variables)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🎬 Project Overview
 
@@ -229,3 +228,4 @@ The frontend will open at `http://localhost:3000`
 - `POST /api/v1/reviews` - Create a new review
 - `PUT /api/v1/reviews/{id}` - Update a review
 - `DELETE /api/v1/reviews/{id}` - Delete a review
+
