@@ -2,21 +2,6 @@
 
 A full-stack web application for browsing movies, reading and writing reviews, and watching trailers. Built with a React frontend and Spring Boot backend.
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-
-
 ## 🎬 Project Overview
 
 MovieAPI is a full-stack application that allows users to:
@@ -228,5 +213,6 @@ The frontend will open at `http://localhost:3000`
 - `POST /api/v1/reviews` - Create a new review
 - `PUT /api/v1/reviews/{id}` - Update a review
 - `DELETE /api/v1/reviews/{id}` - Delete a review
+
 
 
